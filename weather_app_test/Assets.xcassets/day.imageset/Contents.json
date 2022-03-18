@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Cloudy sky_ Daytime bright sun, sunny day clouds and realist (997608) _ Illustrations _ Design Bundles.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
